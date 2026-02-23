@@ -659,9 +659,9 @@ SOFTWARE.
 
 ### Team Alpha Century
 
-- **Project Lead**: [Your Name]
-- **Email**: [your.email@example.com]
-- **GitHub**: [github.com/your-username]
+- **Project Lead**: [Krishna Suratwala]
+- **Email**: [krishnawinin30@gmail.com]
+
 
 ### Resources
 
